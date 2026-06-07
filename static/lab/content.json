@@ -1,0 +1,148 @@
+{
+  "hero": [
+    {
+      "image": "media/images/updates/2026/04/pScmDYkIl9F__1280x1280.jpg",
+      "caption": "AI科研底层架构与空间知识组织"
+    },
+    {
+      "image": "media/images/updates/2026/03/RabNdPvPXprn_1280x1280.jpg",
+      "caption": "复杂医院更新改造与空间诊断"
+    },
+    {
+      "image": "media/images/updates/2026/02/dC9Am44KCQSe_1280x1280.png",
+      "caption": "双年展空间策划与跨界布展"
+    }
+  ],
+  "cards": [
+    {
+      "card_id": "vision",
+      "title": "AI增强设计研究愿景",
+      "category": "研究方向",
+      "thumbnail": "media/images/updates/2026/04/L-3GpZZe8bcF_1280x1280.jpg",
+      "summary": "将AI作为辅助认知媒介，推动建筑设计范式转型。",
+      "detail_link": "#detail/vision",
+      "content_detail": [
+        "课题组探索人工智能增强设计（AI-Augmented Design）的新理论、新方法，关注 AI 如何进入建筑设计的认知、判断与协作过程。",
+        "研究目标不是以自动化替代设计判断，而是建立数据、知识、经验与空间推理之间的协同机制，使复杂公共建筑设计能够从单纯经验驱动转向数据-知识协同驱动。",
+        "面向医疗建筑、城市公共空间与既有建筑更新，课题组将生成式算法、知识图谱、设计智能体与专业规范体系结合，形成可验证、可解释、可迭代的设计支持框架。"
+      ]
+    },
+    {
+      "card_id": "pi",
+      "title": "齐奕教授与教研理念",
+      "category": "导师简介",
+      "thumbnail": "media/images/updates/2026/03/7OaxqPzA6L4P_1280x1280.jpg",
+      "summary": "连接公共建筑设计、医疗空间研究与交叉育人。",
+      "detail_link": "#detail/pi",
+      "content_detail": [
+        "齐奕教授长期从事公共建筑设计、医疗建筑与建筑设计方法研究，并参与 UIA-PHG、中国建筑学会相关分会等学术与行业工作。",
+        "在教学方面，课题组以广东省一流本科课程《公共建筑设计原理》为重要基础，将建筑类型学、空间组织、真实项目问题与数字智能工具共同纳入训练体系。",
+        "教研理念强调学生既要理解设计问题，也要理解系统底层逻辑，能够在复杂约束中进行空间判断、数据组织、工具搭建与成果表达。"
+      ]
+    },
+    {
+      "card_id": "ai-healthcare",
+      "title": "AI与医疗空间生成",
+      "category": "研究方向",
+      "thumbnail": "media/images/updates/2026/03/ylthrSoJM7jE_1280x1280.jpg",
+      "summary": "研究跨模态生成式算法与多模态空间生成框架。",
+      "detail_link": "#detail/ai-healthcare",
+      "content_detail": [
+        "医疗空间具有流程复杂、规范密集、部门协同强和运营反馈高频等特点，是检验 AI 增强设计方法的重要场景。",
+        "课题组围绕跨模态生成式算法、多模态空间生成理论框架和医疗建筑知识表达，研究从文本任务书、功能流程、空间邻接关系到设计草案的生成与评估机制。",
+        "相关研究关注空间生成的可控性、专业语义一致性与设计过程中的可解释性，避免生成结果只停留在视觉层面。"
+      ]
+    },
+    {
+      "card_id": "renovation",
+      "title": "既有医院更新改造",
+      "category": "实践项目",
+      "thumbnail": "media/images/updates/2026/03/7YXbTltQSj8O_1280x1280.jpg",
+      "summary": "建立既有医院改造前期决策机制与诊断方法。",
+      "detail_link": "#detail/renovation",
+      "content_detail": [
+        "既有医院更新面对存量空间受限、医疗流程变化、建设期运营不中断和多部门协调等现实难题，需要在前期诊断阶段形成清晰、可落地的策略。",
+        "课题组以深圳宝安中医院门诊改造等实践为参照，探索全链路空间诊断、问题分级、更新策略生成和实施反馈之间的闭环方法。",
+        "研究同时引入 LLM Agent、规范知识库和空间数据分析，使改造决策能够更早识别风险，更清楚地解释策略依据。"
+      ]
+    },
+    {
+      "card_id": "toolkit",
+      "title": "医疗建筑智能工具库",
+      "category": "技术平台",
+      "thumbnail": "media/images/updates/2026/03/piYMwLiUTgKZ_1280x1280.jpg",
+      "summary": "构建任务书生成、知识问答与更新改造知识图谱。",
+      "detail_link": "#detail/toolkit",
+      "content_detail": [
+        "课题组正在形成面向医疗建筑设计与更新的工具体系，包括综合医院门诊建筑设计任务书生成系统 v1.0、综合医院门诊部建筑设计知识问答系统 V1.0。",
+        "既有医院建筑更新改造知识图谱以 Neo4j 与 NLP 技术为基础，组织规范条文、空间类型、流程关系、改造问题和案例经验。",
+        "这些工具服务于研究、教学和真实项目，目标是在设计早期提供结构化知识支持，并将复杂经验沉淀为可复用的数据资产。"
+      ]
+    },
+    {
+      "card_id": "platforms",
+      "title": "支撑平台与科研基金",
+      "category": "平台项目",
+      "thumbnail": "media/images/updates/2026/03/-Hqa2ORs5Zti_1280x1280.jpg",
+      "summary": "依托国家重点实验室、大数据平台与深圳重点实验室。",
+      "detail_link": "#detail/platforms",
+      "content_detail": [
+        "课题组依托亚热带建筑与城市科学国家重点实验室、国家大数据工程中心、深圳市医养建筑重点实验室、深圳市空间信息智能感知与服务重点实验室等平台。",
+        "科研工作获得国家自然科学基金面上与青年项目、国家重点研发计划子课题、广东省自然科学基金等支持。",
+        "多平台协同使课题组能够同时推进基础理论、技术系统、行业咨询、建筑实践和人才培养。"
+      ]
+    },
+    {
+      "card_id": "curation",
+      "title": "建筑实践与空间策展",
+      "category": "策展实践",
+      "thumbnail": "media/images/updates/2026/01/AIJJPOZSWbgu_1280x1280.jpg",
+      "summary": "从医院改造到双年展，验证空间策略的公共表达。",
+      "detail_link": "#detail/curation",
+      "content_detail": [
+        "课题组关注研究成果在真实空间中的表达与检验，实践内容包括深圳宝安中医院门诊改造、深圳市建筑工务署改造项目等。",
+        "空间策展方面，团队参与深港城市/建筑双城双年展（UABB）与秘鲁建筑双年展等项目，探索建筑研究、艺术布展和公众传播之间的关系。",
+        "这类工作将研究对象从建筑图纸扩展到展场组织、观众路径、公共议题与国际化表达。"
+      ]
+    },
+    {
+      "card_id": "publications",
+      "title": "学术成果与知识产权",
+      "category": "学术成果",
+      "thumbnail": "media/images/updates/2025/12/DhUn1eKq7ail_1280x1280.jpg",
+      "summary": "覆盖专著译著、核心论文、SCI论文与软件著作权。",
+      "detail_link": "#detail/publications",
+      "content_detail": [
+        "代表性成果包括齐奕译著《医院建筑设计指南》（中国建筑工业出版社），以及发表于《建筑学报》《新建筑》和 SCI 期刊的研究论文。",
+        "围绕 AI 算法、医疗建筑知识系统与设计辅助工具，课题组持续推进发明专利、软件著作权等自主知识产权积累。",
+        "成果组织强调从问题定义、方法构建、案例验证到工具沉淀的连续性。"
+      ]
+    },
+    {
+      "card_id": "education",
+      "title": "团队、教学与交叉育人",
+      "category": "特色教学",
+      "thumbnail": "media/images/updates/2025/11/LlN2-7L9F4jj_1280x1280.jpg",
+      "summary": "培养懂设计、懂数据、懂系统底层逻辑的复合型人才。",
+      "detail_link": "#detail/education",
+      "content_detail": [
+        "课题组成员由建筑学与计算机科学交叉背景的研究生组成，围绕智能设计、医疗建筑、知识工程与空间分析开展协作。",
+        "教学改革包括数智设计创新班、计算性设计与智能建造微专业、医养健康建筑微专业，以及人工智能专硕 City X 计算性设计方向。",
+        "团队指导学生获得 UIA-PHG 公共医疗组国际建筑设计竞赛优秀奖，体现了研究、教学和竞赛实践之间的联动。"
+      ]
+    },
+    {
+      "card_id": "news",
+      "title": "新闻动态与学术交流",
+      "category": "新闻动态",
+      "thumbnail": "media/images/updates/2025/10/DOCRjX-tydUc_1280x1280.jpg",
+      "summary": "记录实验室建设、国际会议、研讨会与产学研交流。",
+      "detail_link": "#detail/news",
+      "content_detail": [
+        "新闻动态用于记录实验室 Build 阶段关键进展、国际会议参会报告、未来医院相关会议、学术研讨会与行业专家咨询。",
+        "该栏目也适合发布教学成果、学生获奖、工具版本更新、项目阶段性汇报和产学研合作信息。",
+        "后续新增新闻时，只需要在 content.json 中添加卡片条目，前端会自动进入网格与详情展示。"
+      ]
+    }
+  ]
+}

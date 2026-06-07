@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projects · 健康与人工智能设计小组</title>
+    <meta name="description" content="课题组项目、工具、策展与学术成果卡片。">
+    <link rel="stylesheet" href="../static/lab/site.css">
+</head>
+<body data-page="projects">
+    <header class="site-header">
+        <nav class="site-nav" aria-label="主导航">
+            <a href="../index.html" data-nav="home">Home</a>
+            <a href="../research/index.html" data-nav="research">Research</a>
+            <a class="active" href="index.html" data-nav="projects">Projects</a>
+            <a href="../members/index.html" data-nav="members">Members</a>
+            <a href="../contact/index.html" data-nav="contact">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-title" aria-labelledby="projects-title">
+            <p class="section-kicker">Projects & Outputs</p>
+            <h1 id="projects-title">项目与成果</h1>
+        </section>
+
+        <section class="content-section" aria-labelledby="cards-title">
+            <div class="section-head">
+                <div>
+                    <p class="section-kicker">Card System</p>
+                    <h2 id="cards-title">课题组内容</h2>
+                </div>
+                <div class="filters" id="filters" aria-label="内容分类筛选"></div>
+            </div>
+            <div class="card-grid" id="card-grid" aria-live="polite"></div>
+        </section>
+
+        <section class="detail" id="detail" hidden aria-live="polite">
+            <button class="detail__close" type="button" id="detail-close">关闭</button>
+            <div class="detail__media">
+                <img id="detail-image" alt="">
+            </div>
+            <article class="detail__copy">
+                <p class="detail__category" id="detail-category"></p>
+                <h2 id="detail-title"></h2>
+                <p class="detail__summary" id="detail-summary"></p>
+                <div class="detail__body" id="detail-body"></div>
+            </article>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div>
+            <strong>Health &amp; Aritificial Intelligence Design Group, HAI-D</strong>
+            <span>健康与人工智能设计小组</span>
+        </div>
+        <div>
+            <span>联系邮箱：待补充</span>
+            <span>地址：待补充</span>
+        </div>
+    </footer>
+
+    <script src="../static/lab/site.js" data-root="../" defer></script>
+</body>
+</html>
